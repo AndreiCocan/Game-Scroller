@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="com.insa.gamelist.ListFragment"
+        android:label="fragment_list"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_listFragment_to_gameFragment"
+            app:destination="@id/gameFragment" >
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/gameFragment"
+        android:name="com.insa.gamelist.GameFragment"
+        android:label="fragment_game"
+        tools:layout="@layout/fragment_game" >
+        <argument
+            android:name="game"
+            app:argType="com.insa.gamelist.Game" />
+        <action
+            android:id="@+id/action_gameFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+
+</navigation>

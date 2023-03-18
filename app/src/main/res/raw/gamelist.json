@@ -1,0 +1,341 @@
+[
+   {
+      "id": 1,
+      "title": "Hades",
+      "type": "Roguelite",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC",
+         "Switch"
+      ],
+      "editor": "Supergiant Games",
+      "developer": "Supergiant Games",
+      "timestamp": 1602885600,
+      "image": "https://media.senscritique.com/media/000020936595/300/hades.png",
+      "description": "Hades est un rogue-like et dungeon crawler. Dans la peau du prince des Enfers, vous manierez les pouvoirs et les armes mythiques de l'Olympe pour vous lib\u00E9rer des griffes du dieu des morts en personne, d\u00E9veloppant vos forces et d\u00E9voilant de nouveaux secrets \u00E0 chaque nouvelle tentative d'\u00E9vasion."
+   },
+   {
+      "id": 2,
+      "title": "Demon's Souls",
+      "type": "RPG",
+      "console": [
+         "PS5"
+      ],
+      "editor": "Sony",
+      "developer": "Bluepoint Games",
+      "timestamp": 1605740400,
+      "image": "https://media.senscritique.com/media/000019597441/300/demon_s_souls.png",
+      "description": "D\u00E9couvrez le monde de Boletaria tel que vous ne l\u2019avez jamais vu auparavant dans ce remake du jeu de 2009. Rencontrez des personnages \u00E9tranges, d\u00E9rang\u00E9s et rendus fous par le monde qui les entoure, et d\u00E9voilez l\u2019histoire troublante de Demon\u2019s Souls."
+   },
+   {
+      "id": 3,
+      "title": "Marvel's Spider-Man : Miles Morales",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "PC"
+      ],
+      "editor": "Sony",
+      "developer": "Insomniac Games",
+      "timestamp": 1605740400,
+      "image": "https://media.senscritique.com/media/000020929409/300/marvel_s_spider_man_miles_morales.jpg",
+      "description": "Le jeune Miles Morales prend ses marques, en tant que nouveau Spider-Man. Quand une lutte de pouvoir menace de d\u00E9truire son nouveau foyer, le h\u00E9ros en devenir se rend compte qu'un grand pouvoir implique de grandes responsabilit\u00E9s."
+   },
+   {
+      "id": 4,
+      "title": "Nier Replicant",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "Xbox One",
+         "PC"
+      ],
+      "editor": "Square-Enix",
+      "developer": "Toylogic",
+      "timestamp": 1619128800,
+      "image": "https://media.senscritique.com/media/000020954076/300/nier_replicant_ver_1_22474487139.png",
+      "description": "La pr\u00E9quelle am\u00E9lior\u00E9e de NieR:Automata. Un jeune homme au grand c\u0153ur part \u00E0 la recherche des Vers scell\u00E9s avec Grimoire Weiss, un \u00E9trange livre dou\u00E9 de parole, afin de sauver sa s\u0153ur, Yonah, qui se meurt de la n\u00E9crose runique."
+   },
+   {
+      "id": 5,
+      "title": "Mass Effect Legendary Collection",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "Xbox One",
+         "PC"
+      ],
+      "editor": "BioWare",
+      "developer": "Electronic Arts",
+      "timestamp": 1620943200,
+      "image": "https://media.senscritique.com/media/000020999117/300/mass_effect_legendary_edition.png",
+      "description": "Mass Effect : Legendary Edition est une compilation enti\u00E8rement remasteris\u00E9e et optimis\u00E9e en 4K Ultra HD qui inclut tout le contenu solo de base et les DLC de Mass Effect, Mass Effect 2 et Mass Effect 3, ainsi que les armes, les armures et les packs promotionnels. Visuellement les jeux ont \u00E9t\u00E9 retravaill\u00E9s pour avoir de meilleurs textures, mod\u00E8les 3D, framerate etc..."
+   },
+   {
+      "id": 6,
+      "title": "Tales of Arise",
+      "type": "RPG",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S"
+      ],
+      "editor": "Bandai Namco",
+      "developer": "Bandai Namco",
+      "timestamp": 1631224800,
+      "image": "https://media.senscritique.com/media/000020256041/300/tales_of_arise.jpg",
+      "description": "Tales of Arise se d\u00E9roule dans un syst\u00E8me solaire comprenant deux plan\u00E8tes voisines : Dahna et Rena. Les habitants de Dahna ont toujours v\u00E9n\u00E9r\u00E9 leur plan\u00E8te voisine Rena, la consid\u00E9rant comme une terre vertueuse et divine. Mais depuis 300 ans, le peuple de Rena r\u00E8gne sur Dahna en pillant la plan\u00E8te de ses ressources et en privant ses habitants de leur dignit\u00E9 et de leur libert\u00E9. Tales of Arise commence avec deux personnages n\u00E9s dans des mondes diff\u00E9rents, ayant tous deux un profond d\u00E9sir de changer leur destin et de forger un nouvel avenir pour eux et peut-\u00EAtre leur peuple."
+   },
+   {
+      "id": 7,
+      "title": "Deathloop",
+      "type": "FPS",
+      "console": [
+         "PS5",
+         "Xbox X|S",
+         "PC"
+      ],
+      "editor": "Bethesda",
+      "developer": "Arkane Studio",
+      "timestamp": 1631570400,
+      "image": "https://media.senscritique.com/media/000020193301/300/deathloop.jpg",
+      "description": "Pi\u00E9g\u00E9 dans une boucle temporelle sur l'\u00EEle de Blackreef, Colt est condamn\u00E9 \u00E0 r\u00E9p\u00E9ter la m\u00EAme journ\u00E9e pour l'\u00E9ternit\u00E9. Sa seule chance de mettre fin au cycle est d'assassiner huit cibles cl\u00E9s avant que la journ\u00E9e ne recommence. Apprenez \u00E0 chaque cycle et brisez la boucle."
+   },
+   {
+      "id": 8,
+      "title": "Kena Bridge of Spirit",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "PC"
+      ],
+      "editor": "Ember Lab",
+      "developer": "Ember Lab",
+      "timestamp": 1632175200,
+      "image": "https://media.senscritique.com/media/000020275103/300/kena_bridge_of_spirits.jpg",
+      "description": "Kena, une jeune guide d'esprits, voyage jusqu'\u00E0 un village abandonn\u00E9 \u00E0 la recherche du temple de la montagne sacr\u00E9e. Elle lutte pour d\u00E9couvrir les secrets de sa communaut\u00E9 oubli\u00E9e cach\u00E9e dans une for\u00EAt imp\u00E9n\u00E9trable o\u00F9 des esprits vagabonds sont coinc\u00E9s."
+   },
+   {
+      "id": 9,
+      "title": "Lost Judgement",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC"
+      ],
+      "editor": "Sega",
+      "developer": "Ryu Ga Gotoku",
+      "timestamp": 1632434400,
+      "image": "https://media.senscritique.com/media/000020077386/300/lost_judgment.jpg",
+      "description": "Incarnez Takayuki Yagami et enqu\u00EAtez sur un crime visiblement parfait, dont le principal suspect poss\u00E8de un alibi irr\u00E9cusable. Ce qui semblait \u00EAtre une affaire de vengeance se r\u00E9v\u00E8le bien plus complexe. La liste des victimes s'agrandit et un dilemme se profile : d\u00E9fendre la loi ou rendre justice."
+   },
+   {
+      "id": 10,
+      "title": "Marvel's Guardian of the Galaxy",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC"
+      ],
+      "editor": "Square-Enix",
+      "developer": "Eidos Montr\u00E9al",
+      "timestamp": 1635199200,
+      "image": "https://media.senscritique.com/media/000020108567/300/marvel_s_guardians_of_the_galaxy.jpg",
+      "description": "Activez les jet-bottes de Star-Lord et partez pour une grande aventure \u00E0 travers le cosmos dans ce jeu d'action-aventure \u00E0 la troisi\u00E8me personne, qui offre une nouvelle version des Gardiens de la Galaxie de Marvel. Accompagn\u00E9 des impr\u00E9visibles Gardiens, tirez-vous de situations plus explosives les unes que les autres et rencontrez des nouveaux venus ainsi que des personnages embl\u00E9matiques de Marvel, tous impliqu\u00E9s dans le destin de l'univers. \u00C7a va le faire. Normalement."
+   },
+   {
+      "id": 11,
+      "title": "Sifu",
+      "type": "Roguelite",
+      "console": [
+         "PS4",
+         "PS5",
+         "Switch",
+         "PC"
+      ],
+      "editor": "Sloclap",
+      "developer": "Sloclap",
+      "timestamp": 1644274800,
+      "image": "https://media.senscritique.com/media/000020908022/300/sifu.png",
+      "description": "Vous incarnez un jeune \u00E9tudiant de kung-fu en qu\u00EAte de vengeance. Seul contre tous, une ma\u00EEtrise absolue du kung-fu Pak Mei lui permettra de triompher face aux bourreaux de son pass\u00E9. Cette chasse aux ennemis vous conduira \u00E0 travers les recoins de la ville, des banlieues infest\u00E9es de gangs aux bureaux des quartiers d'affaires. Vous n'avez qu'un jour, et d'innombrables ennemis sur votre chemin. Le temps sera le prix \u00E0 payer. Vous positionner judicieusement et utiliser l'environnement \u00E0 votre avantage sont la cl\u00E9 de votre survie. Utilisez tout ce qui se trouve \u00E0 votre disposition : objets \u00E0 jeter, armes de fortune, fen\u00EAtres et rebords... La chance n'est pas de votre c\u00F4t\u00E9 et vous ne serez pas \u00E9pargn\u00E9. L'entra\u00EEnement ne se termine jamais : Le kung-fu est une approche pour le corps et l'esprit de toute une vie. Apprenez de vos erreurs, d\u00E9verrouillez des comp\u00E9tences uniques et trouvez la force en vous de ma\u00EEtriser les techniques d\u00E9vastatrices du kung-fu Pak Mei."
+   },
+   {
+      "id": 12,
+      "title": "Elden Ring",
+      "type": "RPG",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC"
+      ],
+      "editor": "Bandai Namco",
+      "developer": "From Software",
+      "timestamp": 1645743600,
+      "image": "https://media.senscritique.com/media/000020907829/300/elden_ring.jpg",
+      "description": "L'Ordre d'or a \u00E9t\u00E9 an\u00E9anti. Levez-vous, Sans-\u00E9clat, et puisse la gr\u00E2ce guider vos pas. Brandissez la puissance du Cercle d'Elden. Devenez Seigneur de l'Entre-terre."
+   },
+   {
+      "id": 13,
+      "title": "Triangle Strategy",
+      "type": "Strat\u00E9gie",
+      "console": [
+         "Switch",
+         "PC"
+      ],
+      "editor": "Nintendo",
+      "developer": "Square-Enix",
+      "timestamp": 1646348400,
+      "image": "https://media.senscritique.com/media/000020613043/300/triangle_strategy.jpg",
+      "description": "Incarnez Serenor, h\u00E9ritier du royaume de Glenbrook, et dirigez un groupe de combattants dans un sc\u00E9nario o\u00F9 chaque d\u00E9cision peut faire la diff\u00E9rence."
+   },
+   {
+      "id": 14,
+      "title": "Tunic",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC",
+         "Switch"
+      ],
+      "editor": "Finji",
+      "developer": "Andrew Shouldice",
+      "timestamp": 1647385200,
+      "image": "https://media.senscritique.com/media/000020906038/300/tunic.jpg",
+      "description": "Explore une contr\u00E9e regorgeant de l\u00E9gendes perdues, de pouvoirs ancestraux et de monstres f\u00E9roces dans TUNIC, un jeu d'action isom\u00E9trique qui met en sc\u00E8ne un petit renard vivant une grande aventure."
+   },
+   {
+      "id": 15,
+      "title": "Live A Live",
+      "type": "RPG",
+      "console": [
+         "Switch"
+      ],
+      "editor": "Nintendo",
+      "developer": "Square-Enix",
+      "timestamp": 1658440800,
+      "image": "https://media.senscritique.com/media/000020836380/300/live_a_live.png",
+      "description": "Live A Live est le remake en HD 2D du RPG culte \u00E9ponyme, sorti \u00E0 l'origine uniquement sur SNES au Japon. Pour la toute premi\u00E8re fois traduit en fran\u00E7ais, ce jeu propose sept sc\u00E9narios parall\u00E8les dans des temporalit\u00E9s diff\u00E9rentes."
+   },
+   {
+      "id": 16,
+      "title": "Xenoblade Chronicles 3",
+      "type": "RPG",
+      "console": [
+         "Switch"
+      ],
+      "editor": "Nintendo",
+      "developer": "Monolith Software",
+      "timestamp": 1659045600,
+      "image": "https://media.senscritique.com/media/000020722463/300/xenoblade_chronicles_3.png",
+      "description": "Xenoblade Chronicles 3 r\u00E9unit les futurs de Xenoblade Chronicles et de Xenoblade Chronicles 2 et se d\u00E9roule sur Aionios, un monde qui abrite deux nations en guerre."
+   },
+   {
+      "id": 17,
+      "title": "Cult of the Lamb",
+      "type": "Dungeon Crawler",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC",
+         "Switch"
+      ],
+      "editor": "Devolver",
+      "developer": "Massive Monster",
+      "timestamp": 1660168800,
+      "image": "https://media.senscritique.com/media/000020213173/300/cult_of_the_lamb.jpg",
+      "description": "Montez votre propre culte dans un pays de faux proph\u00E8tes, parcourez des r\u00E9gions \u00E9tonnantes et myst\u00E9rieuses pour faire cro\u00EEtre une communaut\u00E9 de fid\u00E8les dans les bois et r\u00E9pandez la bonne parole pour devenir le seul culte v\u00E9ritable."
+   },
+   {
+      "id": 18,
+      "title": "A plague Tale : Requiem",
+      "type": "Action-Aventure",
+      "console": [
+         "PS5",
+         "Xbox X|S",
+         "PC",
+         "Switch"
+      ],
+      "editor": "Focus Entertainment",
+      "developer": "Asobo Studio",
+      "timestamp": 1666044000,
+      "image": "https://media.senscritique.com/media/000020888298/300/a_plague_tale_requiem.jpg",
+      "description": "Apr\u00E8s une premi\u00E8re aventure maintes fois r\u00E9compens\u00E9e, embarquez avec Amicia et son fr\u00E8re Hugo dans un nouveau voyage intense en qu\u00EAte d\u2019espoir, traqu\u00E9s sans rel\u00E2che par une terrifiante mal\u00E9diction."
+   },
+   {
+      "id": 19,
+      "title": "Mario + Lapins Cr\u00E9tins : Sparks of Hope",
+      "type": "Strat\u00E9gie",
+      "console": [
+         "Switch"
+      ],
+      "editor": "Ubisoft",
+      "developer": "Ubisoft Milan",
+      "timestamp": 1666216800,
+      "image": "https://media.senscritique.com/media/000020814293/300/mario_the_lapins_cretins_sparks_of_hope.jpg",
+      "description": "Faites \u00E9quipe avec Mario, Luigi, la princesse Peach, Rabbid Peach, Rabbid Luigi et leurs amis dans un voyage galactique pour vaincre une entit\u00E9 malveillante et sauver vos compagnons Spark. Explorez des plan\u00E8tes \u00E0 travers la galaxie en d\u00E9couvrant de myst\u00E9rieux secrets et des qu\u00EAtes passionnantes !"
+   },
+   {
+      "id": 20,
+      "title": "Bayonetta 3",
+      "type": "Beat'em all",
+      "console": [
+         "Switch"
+      ],
+      "editor": "Nintendo",
+      "developer": "Platimium Games",
+      "timestamp": 1666908000,
+      "image": "https://media.senscritique.com/media/000020795667/300/bayonetta_3.png",
+      "description": "Bayonetta retourne au combat avec sa technique Envo\u00FBtement. Elle utilisera sa nouvelle habilet\u00E9 Demon Masquerade pour canaliser le pouvoir des d\u00E9mons et s'engager dans l'action hors du commun."
+   },
+   {
+      "id": 21,
+      "title": "Sonic Frontiers",
+      "type": "Action-Aventure",
+      "console": [
+         "PS4",
+         "PS5",
+         "Xbox One",
+         "Xbox X|S",
+         "PC",
+         "Switch"
+      ],
+      "editor": "Sega",
+      "developer": "Sonic Team",
+      "timestamp": 1667862000,
+      "image": "https://media.senscritique.com/media/000020883535/300/sonic_frontiers.jpg",
+      "description": "Les mondes s\u2019entrechoquent dans cette nouvelle aventure ultra rapide ! Explore un monde \u00E9poustouflant plein d\u2019action, d\u2019aventure et de myst\u00E8re tout en affrontant des hordes d\u2019ennemis surpuissants. Traverse les cinq \u00EEles de Starfall Islands \u00E0 toute vitesse et atteins de nouveaux sommets en explorant la zone ouverte. Lance-toi \u00E0 l\u2019aventure, empare-toi du pouvoir des anc\u00EAtres et fais tout ton possible pour arr\u00EAter ces myst\u00E9rieux ennemis. Bienvenue dans la nouvelle \u00E9volution des jeux Sonic !"
+   },
+   {
+      "id": 22,
+      "title": "God of War : Ragnarok",
+      "type": "Action-Aventure",
+      "console": [
+         "PS5",
+         "PS4"
+      ],
+      "editor": "Sony",
+      "developer": "Santa Monica",
+      "timestamp": 1667948400,
+      "image": "https://media.senscritique.com/media/000020893527/300/god_of_war_ragnarok.jpg",
+      "description": "Kratos, affect\u00E9 par le poids de ses erreurs pass\u00E9es, souhaite \u00E9pargner \u00E0 Atreus les dures le\u00E7ons qu\u2019il a apprises en affrontant les dieux. Ensemble, Kratos et Atreus devront choisir quelle voie emprunter. De ce choix d\u00E9coulera le sort des habitants des Neuf Royaumes alors que Ragnar\u00F6k approche."
+   }
+]

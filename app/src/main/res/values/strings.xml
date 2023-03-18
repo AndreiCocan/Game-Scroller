@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Gamelist</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_world">Hello World</string>
+
+    <!-- TODO: Here place all your string used for the application -->
+    <string name="game_image">Game Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gameimage">GameImage</string>
+    <string name="title_place_holder">Title Place Holder</string>
+    <string name="_100">100</string>
+</resources>
